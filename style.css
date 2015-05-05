@@ -1,0 +1,17 @@
+/*
+Theme Name: Creative Portfolio Responsive WordPress Theme
+Theme URI: http://pferdetieraerzte-r-w.de/wp
+Description: Child theme for http://pferdetieraerzte-r-w.de/wp
+Version: 1.0.0
+Author: Oliver Otto
+Author URI: http://www.erstererster.de/
+Template: CreativePortfolioResFree
+License: GPLv2 General Public License
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Tags: 3 column theme, clean, portfolio
+Text Domain:  CreativePortfolioResFree-child
+*/
+
+.container {
+  /*background-color: #000000;*/
+}
